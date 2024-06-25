@@ -4,9 +4,9 @@
   "settings": {
     "width": 4000,
     "height": 4000,
-    "scrollTop": -2456.1467,
-    "scrollLeft": -1607.272,
-    "zoomLevel": 1,
+    "scrollTop": -1264.1058,
+    "scrollLeft": -1985.84,
+    "zoomLevel": 0.8,
     "show": 511,
     "database": 1,
     "databaseName": "architect",
@@ -52,7 +52,9 @@
       "geNlA6BI1p4f5hSAVa-LN",
       "LCEDKJUCtqukItlPoTXPF",
       "i9Nn59OaS36la2Yg23RYo",
-      "5WNyvlFqXlBVDrqlGK3KE"
+      "5WNyvlFqXlBVDrqlGK3KE",
+      "5OGkCEum3XYHAnwGSg37q",
+      "29GtMAVU-U7aW0He-cjuG"
     ],
     "relationshipIds": [
       "H-Nn1xM-3oDgK4AzosXij",
@@ -67,7 +69,9 @@
       "M85dRGpN-f6gSVuKJ7JNy",
       "DL__MqSUdtlGUHwcfgsVE",
       "zqwEef6Y-fJmv9FeycbM3",
-      "5ige0-gGJx3T2CcbnY12A"
+      "5ige0-gGJx3T2CcbnY12A",
+      "jkZrbn3orkRygLaCjzJ1a",
+      "kSXrUiBdEEd-a4lhMuy5p"
     ],
     "indexIds": [],
     "memoIds": []
@@ -1042,6 +1046,109 @@
         "meta": {
           "updateAt": 1719218602721,
           "createAt": 1719216525637
+        }
+      },
+      "5OGkCEum3XYHAnwGSg37q": {
+        "id": "5OGkCEum3XYHAnwGSg37q",
+        "name": "toss_cancel_log",
+        "comment": "결제 취소 이력",
+        "columnIds": [
+          "L2xs4p5eMsutL50FyDZn8",
+          "siWV5lHBSscDY2Nvr5lzO",
+          "zoH25v6O7pG596nr2rx68",
+          "I37ZJgFC1O2O25IigFRnu",
+          "oHTBf4oONPhCsg21ux9uE",
+          "SH28PtS6DwwXsHX0MPy_7",
+          "iNo8jchbiDwlRsyQXBiBg",
+          "0PuZ-9BMQsppVqA4Z-5Q0",
+          "az4bfEzq_Z9BJ6G93crk3",
+          "IMWYDnPf3TuLJ4W4HuU9O",
+          "82BHfByyQ1XZ5UEKoSLSJ",
+          "eNa-g8GhgtHaULYVIV9GB"
+        ],
+        "seqColumnIds": [
+          "L2xs4p5eMsutL50FyDZn8",
+          "siWV5lHBSscDY2Nvr5lzO",
+          "zoH25v6O7pG596nr2rx68",
+          "I37ZJgFC1O2O25IigFRnu",
+          "oHTBf4oONPhCsg21ux9uE",
+          "SH28PtS6DwwXsHX0MPy_7",
+          "iNo8jchbiDwlRsyQXBiBg",
+          "0PuZ-9BMQsppVqA4Z-5Q0",
+          "az4bfEzq_Z9BJ6G93crk3",
+          "IMWYDnPf3TuLJ4W4HuU9O",
+          "1tx5vi3hloTXIJ_rPYDQK",
+          "82BHfByyQ1XZ5UEKoSLSJ",
+          "eNa-g8GhgtHaULYVIV9GB"
+        ],
+        "ui": {
+          "x": 2818.272,
+          "y": 2333.1467,
+          "zIndex": 812,
+          "widthName": 94,
+          "widthComment": 71,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1719330898615,
+          "createAt": 1719328650090
+        }
+      },
+      "29GtMAVU-U7aW0He-cjuG": {
+        "id": "29GtMAVU-U7aW0He-cjuG",
+        "name": "toss_cancel_log",
+        "comment": "현금영수증 발행 및 취소 이력",
+        "columnIds": [
+          "tmlKiMV0eh2iXi5B1qlA5",
+          "WrX2TXIJE5MDRZ2TILFJO",
+          "ALo8khrP_TDl8Ilm6s-5s",
+          "GHo7CAy2nStcr20xHat1X",
+          "OckQcnjvBtQdQgQQnWHJE",
+          "ZPKg55BULnJlI2E0znvYK",
+          "EEMvYEf8-L5zwycD1qd1J",
+          "Q0JkHV8B6Qd2clenFRjej",
+          "leM5zdody8Poyo_qmBv_6",
+          "QwJRS5vyla2M0pGhacWpc",
+          "KO1L4bejvDWM2hTBIL0S2",
+          "E4FvJTBC0aSB3JB82TlWt",
+          "Vwv-hL1k_XHItR-d6Xfzo",
+          "I9lOEsmmy7zGYMKThu9qE",
+          "gC5fATCvcn5tx0depSMrh",
+          "WUFcDnD8VN5eyewgOC2Xz",
+          "n5NBG1bOVsa8Sy52c3sqY",
+          "5nlZV38R7vmMG4SFtznZe"
+        ],
+        "seqColumnIds": [
+          "tmlKiMV0eh2iXi5B1qlA5",
+          "WrX2TXIJE5MDRZ2TILFJO",
+          "ALo8khrP_TDl8Ilm6s-5s",
+          "GHo7CAy2nStcr20xHat1X",
+          "OckQcnjvBtQdQgQQnWHJE",
+          "ZPKg55BULnJlI2E0znvYK",
+          "EEMvYEf8-L5zwycD1qd1J",
+          "Q0JkHV8B6Qd2clenFRjej",
+          "leM5zdody8Poyo_qmBv_6",
+          "QwJRS5vyla2M0pGhacWpc",
+          "KO1L4bejvDWM2hTBIL0S2",
+          "E4FvJTBC0aSB3JB82TlWt",
+          "Vwv-hL1k_XHItR-d6Xfzo",
+          "I9lOEsmmy7zGYMKThu9qE",
+          "gC5fATCvcn5tx0depSMrh",
+          "WUFcDnD8VN5eyewgOC2Xz",
+          "n5NBG1bOVsa8Sy52c3sqY",
+          "5nlZV38R7vmMG4SFtznZe"
+        ],
+        "ui": {
+          "x": 2949.772,
+          "y": 2884.6467,
+          "zIndex": 839,
+          "widthName": 94,
+          "widthComment": 140,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1719331409803,
+          "createAt": 1719328966865
         }
       }
     },
@@ -5090,7 +5197,7 @@
         "id": "uB-bIGfq1Wjb4HLo7qqUX",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "mid",
-        "comment": "",
+        "comment": "상점아이디",
         "dataType": "VARCHAR(14)",
         "default": "",
         "options": 0,
@@ -5102,7 +5209,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719216833467,
+          "updateAt": 1719328622589,
           "createAt": 1719216824740
         }
       },
@@ -5110,19 +5217,19 @@
         "id": "0M81T1SHXpyyKxcOixQnN",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "currency",
-        "comment": "",
+        "comment": "통화(국가 화페)",
         "dataType": "VARCHAR(32)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 60,
-          "widthComment": 60,
+          "widthComment": 77,
           "widthDataType": 83,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719216875658,
+          "updateAt": 1719328595669,
           "createAt": 1719216843687
         }
       },
@@ -5130,7 +5237,7 @@
         "id": "rypTTdIvBCK2GKQ_vPK4W",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "method",
-        "comment": "",
+        "comment": "결제수단",
         "dataType": "VARCHAR(20)",
         "default": "",
         "options": 0,
@@ -5142,7 +5249,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719216886176,
+          "updateAt": 1719328580333,
           "createAt": 1719216877212
         }
       },
@@ -5150,8 +5257,8 @@
         "id": "N6KZz9X5j57x7izbYb6ZT",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "total_amount",
-        "comment": "",
-        "dataType": "INT",
+        "comment": "총 결제금액",
+        "dataType": "INT(11)",
         "default": "",
         "options": 0,
         "ui": {
@@ -5162,7 +5269,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719216901226,
+          "updateAt": 1719328572709,
           "createAt": 1719216887839
         }
       },
@@ -5170,19 +5277,19 @@
         "id": "wB440fUULrn4CqjndLjD1",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "balance_amount",
-        "comment": "",
-        "dataType": "INT",
+        "comment": "취소 할 수 있는 금액(잔고)",
+        "dataType": "INT(11)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 95,
-          "widthComment": 60,
+          "widthComment": 128,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719216922153,
+          "updateAt": 1719328564362,
           "createAt": 1719216902915
         }
       },
@@ -5190,19 +5297,19 @@
         "id": "Ha8WjZVdMSZy-N1Ru-c_O",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "status",
-        "comment": "",
+        "comment": "결제 처리 상태",
         "dataType": "VARCHAR(20)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 60,
-          "widthComment": 60,
+          "widthComment": 71,
           "widthDataType": 83,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719216934264,
+          "updateAt": 1719328502261,
           "createAt": 1719216924256
         }
       },
@@ -5210,7 +5317,7 @@
         "id": "SLoIjF6UgBXgmFUV1Yk1G",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "requested_at",
-        "comment": "",
+        "comment": "결제일",
         "dataType": "TIMESTAMP",
         "default": "",
         "options": 0,
@@ -5222,7 +5329,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719216997152,
+          "updateAt": 1719328332873,
           "createAt": 1719216936038
         }
       },
@@ -5230,7 +5337,7 @@
         "id": "mMDE7RJzzGP889EjnXHZ6",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "approved_at",
-        "comment": "",
+        "comment": "결제 승인일",
         "dataType": "TIMESTAMP",
         "default": "",
         "options": 0,
@@ -5242,7 +5349,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217000088,
+          "updateAt": 1719328262667,
           "createAt": 1719216951470
         }
       },
@@ -5250,19 +5357,19 @@
         "id": "Z787rBQueHGVP8Sans2n4",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "use_escrow",
-        "comment": "",
+        "comment": "에스크로 사용여부",
         "dataType": "VARCHAR(5)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 69,
-          "widthComment": 60,
+          "widthComment": 88,
           "widthDataType": 75,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217005921,
+          "updateAt": 1719328255162,
           "createAt": 1719216963210
         }
       },
@@ -5270,19 +5377,19 @@
         "id": "0q7zfaJ0q5l0ujav8L9CN",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "last_transcation_key",
-        "comment": "",
+        "comment": "마지막 거래 키값",
         "dataType": "VARCHAR(64)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 119,
-          "widthComment": 60,
+          "widthComment": 81,
           "widthDataType": 83,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217019330,
+          "updateAt": 1719328220326,
           "createAt": 1719216971569
         }
       },
@@ -5290,8 +5397,8 @@
         "id": "2DOUhdpDtuw1N59YD4inZ",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "supplied_amount",
-        "comment": "",
-        "dataType": "INT",
+        "comment": "공급가액",
+        "dataType": "INT(11)",
         "default": "",
         "options": 0,
         "ui": {
@@ -5302,7 +5409,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217051591,
+          "updateAt": 1719328202391,
           "createAt": 1719216986084
         }
       },
@@ -5310,8 +5417,8 @@
         "id": "AdJCOvrnkRQqYveVh3iKj",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "vat",
-        "comment": "",
-        "dataType": "INT",
+        "comment": "부가세",
+        "dataType": "INT(11)",
         "default": "",
         "options": 0,
         "ui": {
@@ -5322,7 +5429,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217063426,
+          "updateAt": 1719328180995,
           "createAt": 1719217054767
         }
       },
@@ -5330,19 +5437,19 @@
         "id": "xXKWZkWf59h9J0GIVnkKc",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "culture_expense",
-        "comment": "",
+        "comment": "문화비 지출 여부",
         "dataType": "VARCHAR(5)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 95,
-          "widthComment": 60,
+          "widthComment": 81,
           "widthDataType": 75,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217085769,
+          "updateAt": 1719328122604,
           "createAt": 1719217065114
         }
       },
@@ -5350,19 +5457,19 @@
         "id": "WXtLGQC5-c5TMz1ibuom5",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "tax_free_amount",
-        "comment": "",
-        "dataType": "INT",
+        "comment": "결제 금액 중 면세 금액",
+        "dataType": "INT(11)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 98,
-          "widthComment": 60,
+          "widthComment": 109,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217097994,
+          "updateAt": 1719328140170,
           "createAt": 1719217087707
         }
       },
@@ -5370,19 +5477,19 @@
         "id": "tBHUuPX_Rt-JkbN5R79iG",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "tax_exemption_amount",
-        "comment": "",
-        "dataType": "INT",
+        "comment": "과세를 제외한 결제 금액",
+        "dataType": "INT(11)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 134,
-          "widthComment": 60,
+          "widthComment": 116,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217139153,
+          "updateAt": 1719328105748,
           "createAt": 1719217101601
         }
       },
@@ -5390,19 +5497,19 @@
         "id": "FV7Ig0fKuqm-xTukiiSpa",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "is_partial_cancelable",
-        "comment": "",
+        "comment": "부분 취소 가능 여부 ",
         "dataType": "VARCHAR(5)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 121,
-          "widthComment": 60,
+          "widthComment": 99,
           "widthDataType": 75,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217166246,
+          "updateAt": 1719328050451,
           "createAt": 1719217140643
         }
       },
@@ -5410,19 +5517,19 @@
         "id": "n-K4mVgRcuDkXKwnifmO8",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_amount",
-        "comment": "",
-        "dataType": "INT",
+        "comment": "카드사에 결제 요청한 금액",
+        "dataType": "INT(11)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 77,
-          "widthComment": 60,
+          "widthComment": 126,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217179815,
+          "updateAt": 1719328030356,
           "createAt": 1719217167675
         }
       },
@@ -5430,19 +5537,19 @@
         "id": "N88B6bmPvQYY_f71vz5RI",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_issuer_code",
-        "comment": "",
+        "comment": "카드 발급사 숫자 코드",
         "dataType": "VARCHAR(10)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 102,
-          "widthComment": 60,
+          "widthComment": 106,
           "widthDataType": 81,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217198798,
+          "updateAt": 1719327983530,
           "createAt": 1719217181396
         }
       },
@@ -5450,19 +5557,19 @@
         "id": "uv-We4IbttQS1GnyPkSDM",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_acquirer_code",
-        "comment": "",
+        "comment": "카드 매입사 숫자 코드",
         "dataType": "VARCHAR(10)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 115,
-          "widthComment": 60,
+          "widthComment": 106,
           "widthDataType": 81,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217234465,
+          "updateAt": 1719327971869,
           "createAt": 1719217200640
         }
       },
@@ -5470,7 +5577,7 @@
         "id": "U9NxobLIHE0z-otyefUI1",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_number",
-        "comment": "",
+        "comment": "카드 넘버",
         "dataType": "VARCHAR(20)",
         "default": "",
         "options": 0,
@@ -5482,7 +5589,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217305401,
+          "updateAt": 1719327958265,
           "createAt": 1719217296610
         }
       },
@@ -5490,19 +5597,19 @@
         "id": "Bob6LwJ6AArIbOd2regoO",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_installment_plan_months",
-        "comment": "",
-        "dataType": "INT",
+        "comment": "할부 개월 수",
+        "dataType": "INT(11)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 176,
-          "widthComment": 60,
+          "widthComment": 61,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217331084,
+          "updateAt": 1719327944354,
           "createAt": 1719217307154
         }
       },
@@ -5510,39 +5617,39 @@
         "id": "iUyyAQbM1YJt13kiptKsT",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_approve_no",
-        "comment": "",
+        "comment": "카드사 승인 번호",
         "dataType": "VARCHAR(8)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 100,
-          "widthComment": 60,
+          "widthComment": 81,
           "widthDataType": 76,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217357987,
+          "updateAt": 1719327917251,
           "createAt": 1719217332802
         }
       },
       "DwXAXqb3-hlR59Eqp1C8Y": {
         "id": "DwXAXqb3-hlR59Eqp1C8Y",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
-        "name": "card_use_card)point",
-        "comment": "",
+        "name": "card_use_card_point",
+        "comment": "카드사 포인트 사용 여부",
         "dataType": "VARCHAR(5)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
-          "widthName": 119,
-          "widthComment": 60,
+          "widthName": 121,
+          "widthComment": 116,
           "widthDataType": 75,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217396434,
+          "updateAt": 1719327902721,
           "createAt": 1719217360334
         }
       },
@@ -5550,7 +5657,7 @@
         "id": "LI0A9mB7qdlVXVFEIsiWz",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_type",
-        "comment": "",
+        "comment": "카드 종류",
         "dataType": "VARCHAR(10)",
         "default": "",
         "options": 0,
@@ -5562,7 +5669,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217409515,
+          "updateAt": 1719327879753,
           "createAt": 1719217398017
         }
       },
@@ -5570,19 +5677,19 @@
         "id": "GTIFQz42hMdA6UH1ywdMR",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "owner_type",
-        "comment": "",
+        "comment": "카드 소유자 타입",
         "dataType": "VARCHAR(10)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 68,
-          "widthComment": 60,
+          "widthComment": 81,
           "widthDataType": 81,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217443947,
+          "updateAt": 1719327864255,
           "createAt": 1719217411421
         }
       },
@@ -5590,19 +5697,19 @@
         "id": "kB0LdM185E1yd5zkEn2SS",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_acquire_status",
-        "comment": "",
+        "comment": "카드 결제의 매입 상태",
         "dataType": "VARCHAR(20)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 117,
-          "widthComment": 60,
+          "widthComment": 106,
           "widthDataType": 83,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217493965,
+          "updateAt": 1719327847635,
           "createAt": 1719217445307
         }
       },
@@ -5610,19 +5717,19 @@
         "id": "ptepONAy5SMaqGPdw7lZE",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_is_interest_free",
-        "comment": "",
+        "comment": "무이자 할부 적용 여부",
         "dataType": "VARCHAR(5)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 123,
-          "widthComment": 60,
+          "widthComment": 106,
           "widthDataType": 75,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217510096,
+          "updateAt": 1719327824281,
           "createAt": 1719217495580
         }
       },
@@ -5630,19 +5737,19 @@
         "id": "4HvLCM0IQOA83AcWZBvQs",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "card_interest_payer",
-        "comment": "",
+        "comment": "할부 수수료 부담하는 주체",
         "dataType": "VARCHAR(20)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 116,
-          "widthComment": 60,
+          "widthComment": 126,
           "widthDataType": 83,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217646949,
+          "updateAt": 1719327707464,
           "createAt": 1719217511674
         }
       },
@@ -5650,19 +5757,19 @@
         "id": "5XBh3JLRcgwY6ipjZatCS",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "virtual_account_type",
-        "comment": "",
+        "comment": "가상계좌 타입",
         "dataType": "VARCHAR(10)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 122,
-          "widthComment": 60,
+          "widthComment": 68,
           "widthDataType": 81,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217663461,
+          "updateAt": 1719327669767,
           "createAt": 1719217648282
         }
       },
@@ -5670,19 +5777,19 @@
         "id": "KCjQShm1AbAKjzeDygm_F",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "virtual_account_number",
-        "comment": "",
+        "comment": "발급된 계좌번호",
         "dataType": "VARCHAR(20)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 140,
-          "widthComment": 60,
+          "widthComment": 78,
           "widthDataType": 83,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217686749,
+          "updateAt": 1719327658974,
           "createAt": 1719217665610
         }
       },
@@ -5690,19 +5797,19 @@
         "id": "ZqbWBThK92gIvOYm1VVvm",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "virtual_bank_code",
-        "comment": "",
+        "comment": "가상계좌 은행 숫자 코드",
         "dataType": "VARCHAR(10)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 106,
-          "widthComment": 60,
+          "widthComment": 116,
           "widthDataType": 81,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217716044,
+          "updateAt": 1719327625579,
           "createAt": 1719217691609
         }
       },
@@ -5710,19 +5817,19 @@
         "id": "q3CUs87FsWi6vOZ_nT1bK",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "virtual_customer_name",
-        "comment": "",
+        "comment": "가상계좌 발급한 고객 이름",
         "dataType": "VARCHAR(100)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 135,
-          "widthComment": 60,
+          "widthComment": 126,
           "widthDataType": 89,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217737637,
+          "updateAt": 1719327550179,
           "createAt": 1719217717656
         }
       },
@@ -5730,7 +5837,7 @@
         "id": "JvgU6U3SA2K8u8xTU_mIS",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "virtual_due_date",
-        "comment": "",
+        "comment": "입금 기한",
         "dataType": "TIMESTAMP",
         "default": "",
         "options": 0,
@@ -5742,7 +5849,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217755966,
+          "updateAt": 1719327508866,
           "createAt": 1719217730423
         }
       },
@@ -5750,19 +5857,19 @@
         "id": "GK_Oaa2twGBCthqX6uXrw",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "virtual_refund_status",
-        "comment": "",
+        "comment": "환불처리 상태",
         "dataType": "VARCHAR(20)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 123,
-          "widthComment": 60,
+          "widthComment": 68,
           "widthDataType": 83,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217776421,
+          "updateAt": 1719327484985,
           "createAt": 1719217757957
         }
       },
@@ -5770,19 +5877,19 @@
         "id": "fACSg6QGL_7u0d2VIsiBu",
         "tableId": "5WNyvlFqXlBVDrqlGK3KE",
         "name": "virtual_expired",
-        "comment": "",
+        "comment": "가상계좌 만료 여부",
         "dataType": "VARCHAR(5)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 86,
-          "widthComment": 60,
+          "widthComment": 92,
           "widthDataType": 75,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719217795554,
+          "updateAt": 1719327463447,
           "createAt": 1719217777773
         }
       },
@@ -6385,6 +6492,626 @@
           "updateAt": 1719218568982,
           "createAt": 1719218568982
         }
+      },
+      "L2xs4p5eMsutL50FyDZn8": {
+        "id": "L2xs4p5eMsutL50FyDZn8",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "transaction_key",
+        "comment": "취소 키",
+        "dataType": "VARCHAR(64)",
+        "default": "",
+        "options": 10,
+        "ui": {
+          "keys": 1,
+          "widthName": 92,
+          "widthComment": 60,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719328746198,
+          "createAt": 1719328688826
+        }
+      },
+      "zoH25v6O7pG596nr2rx68": {
+        "id": "zoH25v6O7pG596nr2rx68",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "cancel_amount",
+        "comment": "결제 취소한 금액",
+        "dataType": "INT(11)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 88,
+          "widthComment": 81,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330345226,
+          "createAt": 1719328749884
+        }
+      },
+      "siWV5lHBSscDY2Nvr5lzO": {
+        "id": "siWV5lHBSscDY2Nvr5lzO",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "payment_key",
+        "comment": "토스 결제 키",
+        "dataType": "VARCHAR(64)",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 2,
+          "widthName": 77,
+          "widthComment": 61,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719328937113,
+          "createAt": 1719328937112
+        }
+      },
+      "tmlKiMV0eh2iXi5B1qlA5": {
+        "id": "tmlKiMV0eh2iXi5B1qlA5",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "receipt_key",
+        "comment": "현금영수증 키값",
+        "dataType": "VARCHAR(200)",
+        "default": "",
+        "options": 10,
+        "ui": {
+          "keys": 1,
+          "widthName": 68,
+          "widthComment": 78,
+          "widthDataType": 90,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719329039249,
+          "createAt": 1719329014256
+        }
+      },
+      "WrX2TXIJE5MDRZ2TILFJO": {
+        "id": "WrX2TXIJE5MDRZ2TILFJO",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "payment_key",
+        "comment": "토스 결제 키",
+        "dataType": "VARCHAR(64)",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 2,
+          "widthName": 77,
+          "widthComment": 61,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719329054121,
+          "createAt": 1719329054121
+        }
+      },
+      "I37ZJgFC1O2O25IigFRnu": {
+        "id": "I37ZJgFC1O2O25IigFRnu",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "cancel_reason",
+        "comment": "결제 취소 사유",
+        "dataType": "VARCHAR(200)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 84,
+          "widthComment": 71,
+          "widthDataType": 90,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330525692,
+          "createAt": 1719330345831
+        }
+      },
+      "oHTBf4oONPhCsg21ux9uE": {
+        "id": "oHTBf4oONPhCsg21ux9uE",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "tax_free_amount",
+        "comment": "취소된 금액 중 면세 금액",
+        "dataType": "INT(11)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 98,
+          "widthComment": 119,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330641170,
+          "createAt": 1719330525938
+        }
+      },
+      "SH28PtS6DwwXsHX0MPy_7": {
+        "id": "SH28PtS6DwwXsHX0MPy_7",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "tax_exemption_amount",
+        "comment": "취소된 금액 중 과세 제외 금액",
+        "dataType": "INT(11)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 134,
+          "widthComment": 143,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330677355,
+          "createAt": 1719330642794
+        }
+      },
+      "iNo8jchbiDwlRsyQXBiBg": {
+        "id": "iNo8jchbiDwlRsyQXBiBg",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "refundable_amount",
+        "comment": "결제 취소 후 환불 가능한 잔액",
+        "dataType": "INT(11)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 112,
+          "widthComment": 143,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330747993,
+          "createAt": 1719330677525
+        }
+      },
+      "0PuZ-9BMQsppVqA4Z-5Q0": {
+        "id": "0PuZ-9BMQsppVqA4Z-5Q0",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "easy_pay_discount_amount",
+        "comment": "간편결제 서비스의 포인티, 쿠폰, 즉시할인과 같은 적립식 결제수단에서 취소된 금액",
+        "dataType": "INT(11)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 158,
+          "widthComment": 392,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330811659,
+          "createAt": 1719330748257
+        }
+      },
+      "az4bfEzq_Z9BJ6G93crk3": {
+        "id": "az4bfEzq_Z9BJ6G93crk3",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "canceled_at",
+        "comment": "취소일",
+        "dataType": "TIMESTAMP",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 71,
+          "widthComment": 60,
+          "widthDataType": 71,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330836230,
+          "createAt": 1719330812629
+        }
+      },
+      "IMWYDnPf3TuLJ4W4HuU9O": {
+        "id": "IMWYDnPf3TuLJ4W4HuU9O",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "receipt_key",
+        "comment": "취소건 현금영수증 키",
+        "dataType": "VARCHAR(200)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 68,
+          "widthComment": 102,
+          "widthDataType": 90,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330869221,
+          "createAt": 1719330836420
+        }
+      },
+      "1tx5vi3hloTXIJ_rPYDQK": {
+        "id": "1tx5vi3hloTXIJ_rPYDQK",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "",
+        "comment": "",
+        "dataType": "",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330869566,
+          "createAt": 1719330869566
+        }
+      },
+      "82BHfByyQ1XZ5UEKoSLSJ": {
+        "id": "82BHfByyQ1XZ5UEKoSLSJ",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "created_date",
+        "comment": "생성일",
+        "dataType": "TIMESTAMP",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 77,
+          "widthComment": 60,
+          "widthDataType": 71,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330898615,
+          "createAt": 1719330898615
+        }
+      },
+      "eNa-g8GhgtHaULYVIV9GB": {
+        "id": "eNa-g8GhgtHaULYVIV9GB",
+        "tableId": "5OGkCEum3XYHAnwGSg37q",
+        "name": "modified_date",
+        "comment": "수정일",
+        "dataType": "TIMESTAMP",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 83,
+          "widthComment": 60,
+          "widthDataType": 71,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330898615,
+          "createAt": 1719330898615
+        }
+      },
+      "ALo8khrP_TDl8Ilm6s-5s": {
+        "id": "ALo8khrP_TDl8Ilm6s-5s",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "order_id",
+        "comment": "현금영수증 주문 아이디",
+        "dataType": "VARCHAR(64)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 113,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330957627,
+          "createAt": 1719330926293
+        }
+      },
+      "GHo7CAy2nStcr20xHat1X": {
+        "id": "GHo7CAy2nStcr20xHat1X",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "order_name",
+        "comment": "현금영수증 주문명",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 70,
+          "widthComment": 88,
+          "widthDataType": 89,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719330978857,
+          "createAt": 1719330957859
+        }
+      },
+      "OckQcnjvBtQdQgQQnWHJE": {
+        "id": "OckQcnjvBtQdQgQQnWHJE",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "type",
+        "comment": "현금영수증 종류",
+        "dataType": "VARCHAR(10)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 78,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331002241,
+          "createAt": 1719330979028
+        }
+      },
+      "ZPKg55BULnJlI2E0znvYK": {
+        "id": "ZPKg55BULnJlI2E0znvYK",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "issue_number",
+        "comment": "현금영수증 발급번호",
+        "dataType": "VARCHAR(9)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 81,
+          "widthComment": 99,
+          "widthDataType": 75,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331062747,
+          "createAt": 1719331003714
+        }
+      },
+      "EEMvYEf8-L5zwycD1qd1J": {
+        "id": "EEMvYEf8-L5zwycD1qd1J",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "recept_url",
+        "comment": "발행된 현금영수증 주소",
+        "dataType": "VARCHAR(256)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 113,
+          "widthDataType": 90,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331095673,
+          "createAt": 1719331062904
+        }
+      },
+      "Q0JkHV8B6Qd2clenFRjej": {
+        "id": "Q0JkHV8B6Qd2clenFRjej",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "business_number",
+        "comment": "현금영수증 발급한 사업자번호",
+        "dataType": "VARCHAR(10)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 102,
+          "widthComment": 144,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331129053,
+          "createAt": 1719331095817
+        }
+      },
+      "leM5zdody8Poyo_qmBv_6": {
+        "id": "leM5zdody8Poyo_qmBv_6",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "transcation_type",
+        "comment": "현금영수증 발급 종류",
+        "dataType": "VARCHAR(10)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 98,
+          "widthComment": 102,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331184063,
+          "createAt": 1719331129236
+        }
+      },
+      "QwJRS5vyla2M0pGhacWpc": {
+        "id": "QwJRS5vyla2M0pGhacWpc",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "amount",
+        "comment": "현금영수증 처리된 금액",
+        "dataType": "INT(11)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 113,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331204031,
+          "createAt": 1719331184306
+        }
+      },
+      "KO1L4bejvDWM2hTBIL0S2": {
+        "id": "KO1L4bejvDWM2hTBIL0S2",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "tax_free_amount",
+        "comment": "현금영수증 면세 처리된 금액",
+        "dataType": "INT(11)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 98,
+          "widthComment": 137,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331242735,
+          "createAt": 1719331204166
+        }
+      },
+      "E4FvJTBC0aSB3JB82TlWt": {
+        "id": "E4FvJTBC0aSB3JB82TlWt",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "issue_status",
+        "comment": "현금영수증 발급 상태",
+        "dataType": "VARCHAR(20)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 73,
+          "widthComment": 102,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331263338,
+          "createAt": 1719331242912
+        }
+      },
+      "Vwv-hL1k_XHItR-d6Xfzo": {
+        "id": "Vwv-hL1k_XHItR-d6Xfzo",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "failure_code",
+        "comment": "에러 코드",
+        "dataType": "VARCHAR(10)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 71,
+          "widthComment": 60,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331286036,
+          "createAt": 1719331263439
+        }
+      },
+      "I9lOEsmmy7zGYMKThu9qE": {
+        "id": "I9lOEsmmy7zGYMKThu9qE",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "failure_message",
+        "comment": "에러 메시지",
+        "dataType": "VARCHAR(510)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 94,
+          "widthComment": 60,
+          "widthDataType": 88,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331311853,
+          "createAt": 1719331286514
+        }
+      },
+      "gC5fATCvcn5tx0depSMrh": {
+        "id": "gC5fATCvcn5tx0depSMrh",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "customer_identity_number",
+        "comment": "현금영수증 발급에 필요한 소비자 인증수단",
+        "dataType": "VARCHAR(30)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 153,
+          "widthComment": 202,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331378639,
+          "createAt": 1719331312458
+        }
+      },
+      "WUFcDnD8VN5eyewgOC2Xz": {
+        "id": "WUFcDnD8VN5eyewgOC2Xz",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "request_at",
+        "comment": "결제일",
+        "dataType": "TIMESTAMP",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 63,
+          "widthComment": 60,
+          "widthDataType": 71,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331399674,
+          "createAt": 1719331380496
+        }
+      },
+      "n5NBG1bOVsa8Sy52c3sqY": {
+        "id": "n5NBG1bOVsa8Sy52c3sqY",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "created_date",
+        "comment": "생성일",
+        "dataType": "TIMESTAMP",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 77,
+          "widthComment": 60,
+          "widthDataType": 71,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331407218,
+          "createAt": 1719331407218
+        }
+      },
+      "5nlZV38R7vmMG4SFtznZe": {
+        "id": "5nlZV38R7vmMG4SFtznZe",
+        "tableId": "29GtMAVU-U7aW0He-cjuG",
+        "name": "modified_date",
+        "comment": "수정일",
+        "dataType": "TIMESTAMP",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 83,
+          "widthComment": 60,
+          "widthDataType": 71,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1719331407218,
+          "createAt": 1719331407218
+        }
       }
     },
     "relationshipEntities": {
@@ -6750,6 +7477,62 @@
         "meta": {
           "updateAt": 1719216435149,
           "createAt": 1719216435149
+        }
+      },
+      "jkZrbn3orkRygLaCjzJ1a": {
+        "id": "jkZrbn3orkRygLaCjzJ1a",
+        "identification": false,
+        "relationshipType": 16,
+        "startRelationshipType": 2,
+        "start": {
+          "tableId": "5WNyvlFqXlBVDrqlGK3KE",
+          "columnIds": [
+            "atTAgiIpkY00P_tW3wRFM"
+          ],
+          "x": 2488.2339,
+          "y": 2525.0365,
+          "direction": 2
+        },
+        "end": {
+          "tableId": "5OGkCEum3XYHAnwGSg37q",
+          "columnIds": [
+            "siWV5lHBSscDY2Nvr5lzO"
+          ],
+          "x": 2818.272,
+          "y": 2505.1467,
+          "direction": 1
+        },
+        "meta": {
+          "updateAt": 1719328937113,
+          "createAt": 1719328937113
+        }
+      },
+      "kSXrUiBdEEd-a4lhMuy5p": {
+        "id": "kSXrUiBdEEd-a4lhMuy5p",
+        "identification": false,
+        "relationshipType": 16,
+        "startRelationshipType": 2,
+        "start": {
+          "tableId": "5WNyvlFqXlBVDrqlGK3KE",
+          "columnIds": [
+            "atTAgiIpkY00P_tW3wRFM"
+          ],
+          "x": 2488.2339,
+          "y": 3381.0365,
+          "direction": 2
+        },
+        "end": {
+          "tableId": "29GtMAVU-U7aW0He-cjuG",
+          "columnIds": [
+            "WrX2TXIJE5MDRZ2TILFJO"
+          ],
+          "x": 2949.772,
+          "y": 3128.6467,
+          "direction": 1
+        },
+        "meta": {
+          "updateAt": 1719329054121,
+          "createAt": 1719329054121
         }
       }
     },
@@ -9532,7 +10315,8 @@
       -1,
       {
         "name": 1719216827636,
-        "dataType": 1719216833467
+        "dataType": 1719216833467,
+        "comment": 1719328622589
       }
     ],
     "0M81T1SHXpyyKxcOixQnN": [
@@ -9541,7 +10325,8 @@
       -1,
       {
         "name": 1719216869795,
-        "dataType": 1719216875657
+        "dataType": 1719216875657,
+        "comment": 1719328595668
       }
     ],
     "rypTTdIvBCK2GKQ_vPK4W": [
@@ -9550,7 +10335,8 @@
       -1,
       {
         "name": 1719216881008,
-        "dataType": 1719216886176
+        "dataType": 1719216886176,
+        "comment": 1719328580332
       }
     ],
     "N6KZz9X5j57x7izbYb6ZT": [
@@ -9559,7 +10345,8 @@
       -1,
       {
         "name": 1719216896040,
-        "dataType": 1719216901225
+        "dataType": 1719328566582,
+        "comment": 1719328572708
       }
     ],
     "wB440fUULrn4CqjndLjD1": [
@@ -9568,7 +10355,8 @@
       -1,
       {
         "name": 1719216915556,
-        "dataType": 1719216922153
+        "dataType": 1719328564361,
+        "comment": 1719328560618
       }
     ],
     "Ha8WjZVdMSZy-N1Ru-c_O": [
@@ -9577,7 +10365,8 @@
       -1,
       {
         "name": 1719216929809,
-        "dataType": 1719216934264
+        "dataType": 1719216934264,
+        "comment": 1719328502260
       }
     ],
     "SLoIjF6UgBXgmFUV1Yk1G": [
@@ -9586,7 +10375,8 @@
       -1,
       {
         "name": 1719216949445,
-        "dataType": 1719216997151
+        "dataType": 1719216997151,
+        "comment": 1719328332872
       }
     ],
     "mMDE7RJzzGP889EjnXHZ6": [
@@ -9595,7 +10385,8 @@
       -1,
       {
         "name": 1719216960456,
-        "dataType": 1719217000087
+        "dataType": 1719217000087,
+        "comment": 1719328262666
       }
     ],
     "Z787rBQueHGVP8Sans2n4": [
@@ -9604,7 +10395,8 @@
       -1,
       {
         "name": 1719216969797,
-        "dataType": 1719217005921
+        "dataType": 1719217005921,
+        "comment": 1719328255162
       }
     ],
     "0q7zfaJ0q5l0ujav8L9CN": [
@@ -9613,7 +10405,8 @@
       -1,
       {
         "name": 1719216984080,
-        "dataType": 1719217019329
+        "dataType": 1719217019329,
+        "comment": 1719328220325
       }
     ],
     "2DOUhdpDtuw1N59YD4inZ": [
@@ -9622,7 +10415,8 @@
       -1,
       {
         "name": 1719217048348,
-        "dataType": 1719217051591
+        "dataType": 1719328190725,
+        "comment": 1719328202390
       }
     ],
     "AdJCOvrnkRQqYveVh3iKj": [
@@ -9631,7 +10425,8 @@
       -1,
       {
         "name": 1719217060238,
-        "dataType": 1719217063425
+        "dataType": 1719328160515,
+        "comment": 1719328180995
       }
     ],
     "xXKWZkWf59h9J0GIVnkKc": [
@@ -9640,7 +10435,8 @@
       -1,
       {
         "name": 1719217081464,
-        "dataType": 1719217085768
+        "dataType": 1719217085768,
+        "comment": 1719328122603
       }
     ],
     "WXtLGQC5-c5TMz1ibuom5": [
@@ -9649,7 +10445,8 @@
       -1,
       {
         "name": 1719217094136,
-        "dataType": 1719217097994
+        "dataType": 1719328075812,
+        "comment": 1719328140170
       }
     ],
     "tBHUuPX_Rt-JkbN5R79iG": [
@@ -9658,7 +10455,8 @@
       -1,
       {
         "name": 1719217136061,
-        "dataType": 1719217139153
+        "dataType": 1719328072606,
+        "comment": 1719328105748
       }
     ],
     "FV7Ig0fKuqm-xTukiiSpa": [
@@ -9667,7 +10465,8 @@
       -1,
       {
         "name": 1719217156681,
-        "dataType": 1719217166245
+        "dataType": 1719217166245,
+        "comment": 1719328050450
       }
     ],
     "n-K4mVgRcuDkXKwnifmO8": [
@@ -9676,7 +10475,8 @@
       -1,
       {
         "name": 1719217173703,
-        "dataType": 1719217179815
+        "dataType": 1719328019026,
+        "comment": 1719328030355
       }
     ],
     "N88B6bmPvQYY_f71vz5RI": [
@@ -9685,7 +10485,8 @@
       -1,
       {
         "name": 1719217192126,
-        "dataType": 1719217198797
+        "dataType": 1719217198797,
+        "comment": 1719327983530
       }
     ],
     "uv-We4IbttQS1GnyPkSDM": [
@@ -9694,7 +10495,8 @@
       -1,
       {
         "name": 1719217229237,
-        "dataType": 1719217234464
+        "dataType": 1719217234464,
+        "comment": 1719327971869
       }
     ],
     "U9NxobLIHE0z-otyefUI1": [
@@ -9703,7 +10505,8 @@
       -1,
       {
         "name": 1719217301938,
-        "dataType": 1719217305400
+        "dataType": 1719217305400,
+        "comment": 1719327958265
       }
     ],
     "Bob6LwJ6AArIbOd2regoO": [
@@ -9712,7 +10515,8 @@
       -1,
       {
         "name": 1719217324500,
-        "dataType": 1719217331083
+        "dataType": 1719327928548,
+        "comment": 1719327944353
       }
     ],
     "iUyyAQbM1YJt13kiptKsT": [
@@ -9721,7 +10525,8 @@
       -1,
       {
         "name": 1719217352213,
-        "dataType": 1719217357987
+        "dataType": 1719217357987,
+        "comment": 1719327917251
       }
     ],
     "DwXAXqb3-hlR59Eqp1C8Y": [
@@ -9729,8 +10534,9 @@
       1719217360333,
       -1,
       {
-        "name": 1719217391790,
-        "dataType": 1719217396433
+        "name": 1719327888253,
+        "dataType": 1719217396433,
+        "comment": 1719327902721
       }
     ],
     "LI0A9mB7qdlVXVFEIsiWz": [
@@ -9739,7 +10545,8 @@
       -1,
       {
         "name": 1719217403118,
-        "dataType": 1719217409514
+        "dataType": 1719217409514,
+        "comment": 1719327879753
       }
     ],
     "GTIFQz42hMdA6UH1ywdMR": [
@@ -9748,7 +10555,8 @@
       -1,
       {
         "name": 1719217436227,
-        "dataType": 1719217443946
+        "dataType": 1719217443946,
+        "comment": 1719327864254
       }
     ],
     "kB0LdM185E1yd5zkEn2SS": [
@@ -9757,7 +10565,8 @@
       -1,
       {
         "name": 1719217472525,
-        "dataType": 1719217493965
+        "dataType": 1719217493965,
+        "comment": 1719327847634
       }
     ],
     "ptepONAy5SMaqGPdw7lZE": [
@@ -9766,7 +10575,8 @@
       -1,
       {
         "name": 1719217505528,
-        "dataType": 1719217510096
+        "dataType": 1719217510096,
+        "comment": 1719327824281
       }
     ],
     "4HvLCM0IQOA83AcWZBvQs": [
@@ -9775,7 +10585,8 @@
       -1,
       {
         "name": 1719217641800,
-        "dataType": 1719217646948
+        "dataType": 1719217646948,
+        "comment": 1719327707463
       }
     ],
     "5XBh3JLRcgwY6ipjZatCS": [
@@ -9784,7 +10595,8 @@
       -1,
       {
         "name": 1719217658616,
-        "dataType": 1719217663461
+        "dataType": 1719217663461,
+        "comment": 1719327669766
       }
     ],
     "KCjQShm1AbAKjzeDygm_F": [
@@ -9793,7 +10605,8 @@
       -1,
       {
         "name": 1719217682353,
-        "dataType": 1719217686748
+        "dataType": 1719217686748,
+        "comment": 1719327658974
       }
     ],
     "ZqbWBThK92gIvOYm1VVvm": [
@@ -9802,7 +10615,8 @@
       -1,
       {
         "name": 1719217711837,
-        "dataType": 1719217716043
+        "dataType": 1719217716043,
+        "comment": 1719327625579
       }
     ],
     "q3CUs87FsWi6vOZ_nT1bK": [
@@ -9811,7 +10625,8 @@
       -1,
       {
         "name": 1719217725647,
-        "dataType": 1719217737636
+        "dataType": 1719217737636,
+        "comment": 1719327550178
       }
     ],
     "JvgU6U3SA2K8u8xTU_mIS": [
@@ -9820,7 +10635,8 @@
       -1,
       {
         "name": 1719217750481,
-        "dataType": 1719217755965
+        "dataType": 1719217755965,
+        "comment": 1719327508866
       }
     ],
     "GK_Oaa2twGBCthqX6uXrw": [
@@ -9829,7 +10645,8 @@
       -1,
       {
         "name": 1719217772059,
-        "dataType": 1719217776420
+        "dataType": 1719217776420,
+        "comment": 1719327484985
       }
     ],
     "fACSg6QGL_7u0d2VIsiBu": [
@@ -9838,7 +10655,8 @@
       -1,
       {
         "name": 1719217792226,
-        "dataType": 1719217795554
+        "dataType": 1719217795554,
+        "comment": 1719327463447
       }
     ],
     "LDXELGmL6neU7TXcpB5Pc": [
@@ -10143,6 +10961,364 @@
         "options(notNull)": 1719218568980,
         "options(unique)": 1719218568980,
         "options(autoIncrement)": 1719218568980
+      }
+    ],
+    "5OGkCEum3XYHAnwGSg37q": [
+      "tableEntities",
+      1719328650087,
+      -1,
+      {
+        "name": 1719328673690,
+        "comment": 1719328688053
+      }
+    ],
+    "L2xs4p5eMsutL50FyDZn8": [
+      "tableColumnEntities",
+      1719328688825,
+      -1,
+      {
+        "name": 1719328717620,
+        "dataType": 1719328723501,
+        "options(primaryKey)": 1719328725935,
+        "comment": 1719328746198
+      }
+    ],
+    "zoH25v6O7pG596nr2rx68": [
+      "tableColumnEntities",
+      1719328749883,
+      -1,
+      {
+        "name": 1719330329880,
+        "dataType": 1719330335368,
+        "comment": 1719330345225
+      }
+    ],
+    "siWV5lHBSscDY2Nvr5lzO": [
+      "tableColumnEntities",
+      1719328937112,
+      -1,
+      {
+        "options(notNull)": 1719328937112,
+        "name": 1719328937112,
+        "dataType": 1719328937112,
+        "default": 1719328937112,
+        "comment": 1719328937112
+      }
+    ],
+    "jkZrbn3orkRygLaCjzJ1a": [
+      "relationshipEntities",
+      1719328937112,
+      -1,
+      {}
+    ],
+    "29GtMAVU-U7aW0He-cjuG": [
+      "tableEntities",
+      1719328966863,
+      -1,
+      {
+        "name": 1719328982502,
+        "comment": 1719329014057
+      }
+    ],
+    "tmlKiMV0eh2iXi5B1qlA5": [
+      "tableColumnEntities",
+      1719329014255,
+      -1,
+      {
+        "name": 1719329021443,
+        "dataType": 1719329026505,
+        "options(primaryKey)": 1719329029127,
+        "comment": 1719329039249
+      }
+    ],
+    "WrX2TXIJE5MDRZ2TILFJO": [
+      "tableColumnEntities",
+      1719329054119,
+      -1,
+      {
+        "options(notNull)": 1719329054119,
+        "name": 1719329054119,
+        "dataType": 1719329054119,
+        "default": 1719329054119,
+        "comment": 1719329054119
+      }
+    ],
+    "kSXrUiBdEEd-a4lhMuy5p": [
+      "relationshipEntities",
+      1719329054119,
+      -1,
+      {}
+    ],
+    "I37ZJgFC1O2O25IigFRnu": [
+      "tableColumnEntities",
+      1719330345830,
+      -1,
+      {
+        "name": 1719330513675,
+        "dataType": 1719330518811,
+        "comment": 1719330525691
+      }
+    ],
+    "oHTBf4oONPhCsg21ux9uE": [
+      "tableColumnEntities",
+      1719330525938,
+      -1,
+      {
+        "name": 1719330605954,
+        "dataType": 1719330616666,
+        "comment": 1719330641170
+      }
+    ],
+    "SH28PtS6DwwXsHX0MPy_7": [
+      "tableColumnEntities",
+      1719330642793,
+      -1,
+      {
+        "name": 1719330655407,
+        "dataType": 1719330658972,
+        "comment": 1719330677354
+      }
+    ],
+    "iNo8jchbiDwlRsyQXBiBg": [
+      "tableColumnEntities",
+      1719330677524,
+      -1,
+      {
+        "name": 1719330729849,
+        "dataType": 1719330734633,
+        "comment": 1719330747993
+      }
+    ],
+    "0PuZ-9BMQsppVqA4Z-5Q0": [
+      "tableColumnEntities",
+      1719330748255,
+      -1,
+      {
+        "name": 1719330784942,
+        "dataType": 1719330787840,
+        "comment": 1719330811659
+      }
+    ],
+    "az4bfEzq_Z9BJ6G93crk3": [
+      "tableColumnEntities",
+      1719330812627,
+      -1,
+      {
+        "name": 1719330824142,
+        "dataType": 1719330830024,
+        "comment": 1719330836230
+      }
+    ],
+    "IMWYDnPf3TuLJ4W4HuU9O": [
+      "tableColumnEntities",
+      1719330836419,
+      -1,
+      {
+        "name": 1719330851109,
+        "dataType": 1719330857056,
+        "comment": 1719330869221
+      }
+    ],
+    "1tx5vi3hloTXIJ_rPYDQK": [
+      "tableColumnEntities",
+      1719330869565,
+      1719330890309,
+      {}
+    ],
+    "82BHfByyQ1XZ5UEKoSLSJ": [
+      "tableColumnEntities",
+      1719330898614,
+      -1,
+      {
+        "name": 1719330898614,
+        "dataType": 1719330898614,
+        "default": 1719330898614,
+        "comment": 1719330898614,
+        "options(notNull)": 1719330898614,
+        "options(unique)": 1719330898614,
+        "options(autoIncrement)": 1719330898614
+      }
+    ],
+    "eNa-g8GhgtHaULYVIV9GB": [
+      "tableColumnEntities",
+      1719330898614,
+      -1,
+      {
+        "name": 1719330898614,
+        "dataType": 1719330898614,
+        "default": 1719330898614,
+        "comment": 1719330898614,
+        "options(notNull)": 1719330898614,
+        "options(unique)": 1719330898614,
+        "options(autoIncrement)": 1719330898614
+      }
+    ],
+    "ALo8khrP_TDl8Ilm6s-5s": [
+      "tableColumnEntities",
+      1719330926291,
+      -1,
+      {
+        "name": 1719330941082,
+        "dataType": 1719330946419,
+        "comment": 1719330957627
+      }
+    ],
+    "GHo7CAy2nStcr20xHat1X": [
+      "tableColumnEntities",
+      1719330957858,
+      -1,
+      {
+        "name": 1719330960966,
+        "dataType": 1719330968770,
+        "comment": 1719330978857
+      }
+    ],
+    "OckQcnjvBtQdQgQQnWHJE": [
+      "tableColumnEntities",
+      1719330979028,
+      -1,
+      {
+        "name": 1719330982789,
+        "dataType": 1719330990332,
+        "comment": 1719331002241
+      }
+    ],
+    "ZPKg55BULnJlI2E0znvYK": [
+      "tableColumnEntities",
+      1719331003714,
+      -1,
+      {
+        "name": 1719331036339,
+        "dataType": 1719331043536,
+        "comment": 1719331062747
+      }
+    ],
+    "EEMvYEf8-L5zwycD1qd1J": [
+      "tableColumnEntities",
+      1719331062903,
+      -1,
+      {
+        "name": 1719331078265,
+        "dataType": 1719331084940,
+        "comment": 1719331095672
+      }
+    ],
+    "Q0JkHV8B6Qd2clenFRjej": [
+      "tableColumnEntities",
+      1719331095816,
+      -1,
+      {
+        "name": 1719331111010,
+        "dataType": 1719331116550,
+        "comment": 1719331129052
+      }
+    ],
+    "leM5zdody8Poyo_qmBv_6": [
+      "tableColumnEntities",
+      1719331129235,
+      -1,
+      {
+        "name": 1719331158307,
+        "dataType": 1719331166157,
+        "comment": 1719331184063
+      }
+    ],
+    "QwJRS5vyla2M0pGhacWpc": [
+      "tableColumnEntities",
+      1719331184302,
+      -1,
+      {
+        "name": 1719331189233,
+        "dataType": 1719331192723,
+        "comment": 1719331204030
+      }
+    ],
+    "KO1L4bejvDWM2hTBIL0S2": [
+      "tableColumnEntities",
+      1719331204165,
+      -1,
+      {
+        "name": 1719331213763,
+        "dataType": 1719331226916,
+        "comment": 1719331242734
+      }
+    ],
+    "E4FvJTBC0aSB3JB82TlWt": [
+      "tableColumnEntities",
+      1719331242911,
+      -1,
+      {
+        "name": 1719331248636,
+        "dataType": 1719331254577,
+        "comment": 1719331263337
+      }
+    ],
+    "Vwv-hL1k_XHItR-d6Xfzo": [
+      "tableColumnEntities",
+      1719331263439,
+      -1,
+      {
+        "name": 1719331272006,
+        "dataType": 1719331279115,
+        "comment": 1719331286036
+      }
+    ],
+    "I9lOEsmmy7zGYMKThu9qE": [
+      "tableColumnEntities",
+      1719331286513,
+      -1,
+      {
+        "name": 1719331293476,
+        "dataType": 1719331301135,
+        "comment": 1719331311853
+      }
+    ],
+    "gC5fATCvcn5tx0depSMrh": [
+      "tableColumnEntities",
+      1719331312457,
+      -1,
+      {
+        "name": 1719331343707,
+        "dataType": 1719331348152,
+        "comment": 1719331378638
+      }
+    ],
+    "WUFcDnD8VN5eyewgOC2Xz": [
+      "tableColumnEntities",
+      1719331380494,
+      -1,
+      {
+        "name": 1719331387540,
+        "dataType": 1719331391983,
+        "comment": 1719331399674
+      }
+    ],
+    "n5NBG1bOVsa8Sy52c3sqY": [
+      "tableColumnEntities",
+      1719331407216,
+      -1,
+      {
+        "name": 1719331407216,
+        "dataType": 1719331407216,
+        "default": 1719331407216,
+        "comment": 1719331407216,
+        "options(notNull)": 1719331407216,
+        "options(unique)": 1719331407216,
+        "options(autoIncrement)": 1719331407216
+      }
+    ],
+    "5nlZV38R7vmMG4SFtznZe": [
+      "tableColumnEntities",
+      1719331407216,
+      -1,
+      {
+        "name": 1719331407216,
+        "dataType": 1719331407216,
+        "default": 1719331407216,
+        "comment": 1719331407216,
+        "options(notNull)": 1719331407216,
+        "options(unique)": 1719331407216,
+        "options(autoIncrement)": 1719331407216
       }
     ]
   }
